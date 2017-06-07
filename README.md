@@ -3,7 +3,7 @@
 **Version : 1.0**
 
 
-##Usage
+## Usage
 
 1. Include repertoir 'captcha' dans votre projet.
 
@@ -36,7 +36,7 @@ pour verification de saizie vous pouvez comparer avec valeur de captcha dans ses
  }
 
 
-##Configuration (configuration.php)
+## Configuration (configuration.php)
 
     'captcha_text'  => 7,   //contenu de captcha. 1->chiffre  2->lettre majuscul  3->lettre miniscule  4->1+2  5->1+3  6->2+3  7->1+2+3
     'count_string'  => 3,   //nombre de lettre
@@ -55,6 +55,6 @@ pour verification de saizie vous pouvez comparer avec valeur de captcha dans ses
     'bg_color_set'  => '55,155,205' //set bgColor de captcha. il faut bg_color => 2  et sans bgImage
 
 
-##Histoire de version
+## Histoire de version
 
 Version : 1.0
