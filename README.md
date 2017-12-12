@@ -1,5 +1,5 @@
 # PHP Captcha 
-**Author : MAERDAN Maimaiti**
+**Author : Oghouz**
 **Version : 1.0**
 
 
